@@ -1,5 +1,3 @@
-michaelsheng/README.md
-
 <h2>ABOUT ME</h2>
 
 <ul>
