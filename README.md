@@ -1,16 +1,14 @@
-### Hi there 👋
+michaelsheng/README.md
 
-<!--
-**michaelsheng15/michaelsheng15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>ABOUT ME</h2>
 
-Here are some ideas to get you started:
+<ul>
+  <li>Aspiring software developer and 2A Management Engineering student @uWaterloo</li>
+  <li>Currently IT Support Analyst @York Region</li>
+  <li>Learning full stack development with MERN</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+
+
