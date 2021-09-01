@@ -3,7 +3,7 @@
 <ul>
   <li>2A Management Engineering student @uWaterloo</li>
   <li>Previously IT Support Analyst @York Region</li>
-  <li>Currently learning full stack web development with MERN and web sockets</li>
+  <li>Currently learning full stack web development with MERN and Sockets.io</li>
 </ul>
 
 <a href="https://www.linkedin.com/in/michaeljsheng/" target=”_blank” >Linkedin</a>
