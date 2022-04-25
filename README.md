@@ -2,8 +2,7 @@
 
 <ul>
   <li>2A Management Engineering student @uWaterloo</li>
-  <li>Previously IT Support Analyst @ York Region</li>
-  <li>Currently Full Stack Web Developer @ Digital Extremes</li>
+  <li>Previously Full Stack Web Developer @ Digital Extremes</li>
 </ul>
 
 <a href="https://www.linkedin.com/in/michaeljsheng/" target=”_blank” >Linkedin</a>
