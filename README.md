@@ -7,7 +7,7 @@
 
 <a href="https://www.linkedin.com/in/michaeljsheng/" target=”_blank” >Linkedin</a>
 <a href="mailto:m3sheng@uwaterloo.ca" target=”_blank”>Email</a>
-<a href="https://www.linkedin.com/in/michaeljsheng/" target=”_blank” >Website</a>
+<a href="[https://www.linkedin.com/in/michaeljsheng/](https://michaelsheng15.github.io/react-website/#/react-website/home)" target=”_blank” >Website</a>
 
 
 
