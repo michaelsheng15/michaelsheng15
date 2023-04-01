@@ -2,7 +2,12 @@
 
 <ul>
   <li>3A Management Engineering student @uWaterloo 📚</li>
-  <li>Previously Software Engineer @ Loblaw Digital 🛍</li>
+  <li>Incoming Software Engineer Intern @ TradeRev 🚗</li>
+
+  <li>Previously...</li>
+  <li>Software Engineer Intern @ Loblaw Digital 🛍</li>
+  <li>Software Engineer Intern @ Digital Extremes 🕹️</li>
+  <li>IT Analyst @ York Region 🏛️</li>
 </ul>
 
 <a href="https://www.linkedin.com/in/michaeljsheng/" target=”_blank” >Linkedin</a>
