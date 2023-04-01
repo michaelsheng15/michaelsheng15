@@ -2,6 +2,8 @@
 
 <ul>
   <li>3A Management Engineering student @uWaterloo 📚</li>
+    <br/>
+
   <li>Incoming Software Engineer Intern @ TradeRev 🚗</li>
   <br/>
   <li>Previously...</li>
