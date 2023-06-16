@@ -4,7 +4,7 @@
   <li>3A Management Engineering student @uWaterloo 📚</li>
     <br/>
 
-  <li>Incoming Software Engineer Intern @ TradeRev 🚗</li>
+  <li>Incoming Software Engineer Intern @ OPENLANE 🚗</li>
   <br/>
   <li>Previously...</li>
   <ul>
