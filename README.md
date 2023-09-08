@@ -1,13 +1,12 @@
 <h2>ABOUT ME</h2>
 
 <ul>
-  <li>3A Management Engineering student @uWaterloo 📚</li>
+  <li>3B Management Engineering student @uWaterloo 📚</li>
     <br/>
 
-  <li>Incoming Software Engineer Intern @ OPENLANE 🚗</li>
-  <br/>
   <li>Previously...</li>
   <ul>
+    <li>Software Engineer Intern @ OPENLANE 🚗</li>
             <li>Software Engineer Intern @ Loblaw Digital 🛍</li>
   <li>Software Engineer Intern @ Digital Extremes 🕹️</li>
   <li>IT Analyst @ York Region 🏛️</li>
