@@ -7,11 +7,10 @@
   <li>Previously...</li>
   <ul>
     <li>Software Engineer Intern @ Scrawlr 🛫</li>
-
     <li>Software Engineer Intern @ OPENLANE 🚗</li>
-            <li>Software Engineer Intern @ Loblaw Digital 🛍</li>
-  <li>Software Engineer Intern @ Digital Extremes 🕹️</li>
-  <li>IT Analyst @ York Region 🏛️</li>
+    <li>Software Engineer Intern @ Loblaw Digital 🛍</li>
+    <li>Software Engineer Intern @ Digital Extremes 🕹️</li>
+    <li>IT Analyst @ York Region 🏛️</li>
    </ul>
   
 </ul>
