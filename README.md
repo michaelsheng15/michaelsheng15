@@ -4,9 +4,12 @@
   <li>4A Management Engineering student @uWaterloo 📚</li>
     <br/>
 
+
+  <li>Currently Software Engineer Intern @ Scrawlr 🛫</li>
+    <br/>
+
   <li>Previously...</li>
   <ul>
-    <li>Software Engineer Intern @ Scrawlr 🛫</li>
     <li>Software Engineer Intern @ OPENLANE 🚗</li>
     <li>Software Engineer Intern @ Loblaw Digital 🛍</li>
     <li>Software Engineer Intern @ Digital Extremes 🕹️</li>
