@@ -1,15 +1,16 @@
 <h2>ABOUT ME</h2>
 
 <ul>
-  <li>4A Management Engineering student @uWaterloo 📚</li>
+  <li>4B Management Engineering student @uWaterloo 📚</li>
     <br/>
 
 
-  <li>Currently Software Engineer Intern @ Scrawlr 🛫</li>
+  <li>Currently Software Engineer @ Cut+Dry 🍔</li>
     <br/>
 
   <li>Previously...</li>
   <ul>
+    <li>Currently Software Engineer Intern @ Scrawlr 🛫</li>
     <li>Software Engineer Intern @ OPENLANE 🚗</li>
     <li>Software Engineer Intern @ Loblaw Digital 🛍</li>
     <li>Software Engineer Intern @ Digital Extremes 🕹️</li>
